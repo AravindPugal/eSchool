@@ -1,0 +1,93 @@
+/****************GENERAL*********************/
+body{
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+}
+h2{
+  font-family: 'Belgrano', serif;
+}
+h3{
+  font-family: 'Lateef', cursive;
+
+}
+p{
+  font-family: 'Merriweather', serif;
+  font-weight: 500;
+}
+/********************* HEADER ***************************/
+.container-fluid{
+  background-color: #e7dfd5;
+  padding:150px 20px;
+  line-height: 2;
+}
+.container-fluid img{
+  margin-top:20px;
+}
+
+.btn{
+  font-family: 'PT Serif', serif;
+}
+.btn:hover{
+  color: black;
+  background-color:white;
+}
+/***************************NAV-BAR**********************/
+a:hover{
+    color: white;
+}
+/***************************FEATURES**********************/
+.features{
+  background-color:#eff3c6;
+
+}
+.describtion{
+  padding:50px;
+
+}
+.features-list{
+  padding: 50px;
+}
+.feature{
+  background-color: white;
+  margin: 20px;
+  padding:70px;
+  text-align: center;
+  height: 320px;
+  width: 320px;
+  border-radius: 300px;
+}
+.feature-image{
+  margin-bottom: 5px;
+  height: 50px;
+  width: 50px;
+}
+
+/************************WHY-US***************************/
+.why-us{
+  background-color: #eff3c6;
+  padding: 40px;
+  padding-left: 5px;
+
+}
+.web-gif{
+  margin-right: 100px;
+}
+/******************************DESCRIBE********************/
+.describe-container{
+  background-color:#eff3c6;
+}
+/***********************SERVICES***********************/
+.services{
+  background-color: #e7dfd5;
+}
+.s-col{
+  text-align: center;
+  margin: 20px;
+  padding: 50px;
+  background-color: white;
+  border-radius:0 250px 250px;
+}
